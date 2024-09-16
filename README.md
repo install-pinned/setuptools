@@ -20,7 +20,7 @@ In your GitHub Actions workflow, use this action like so:
 
 ```yaml
       - name: Install setuptools from PyPI
-        uses: install-pinned/setuptools@cd4cebe3a45b5a8b54db40b33c9a867396e4ede5  # 75.0.0
+        uses: install-pinned/setuptools@cc6024781c4c4513a4ed1cad68dd39916c1516ff  # 75.1.0
 ```
 
 You can [set up Dependabot](https://docs.github.com/en/code-security/dependabot/working-with-dependabot/keeping-your-actions-up-to-date-with-dependabot#example-dependabotyml-file-for-github-actions)
